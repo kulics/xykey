@@ -1,3 +1,6 @@
+V3.4.3
+1. Update official website and contact information.
+
 V3.4
 1, category support drag sort.
 2, give up 4.4 the following support, optimize the above 5.0 UI.
