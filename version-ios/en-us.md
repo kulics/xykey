@@ -1,3 +1,6 @@
+V3.2.1
+1. Update official website and contact information.
+
 V3.2
 1, category support drag sort.
 2, optimize the UI.
