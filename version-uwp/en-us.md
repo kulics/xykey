@@ -1,3 +1,6 @@
+V2.4  
+1. Add File Backup Feature.
+
 V2.3.2
 1. Update official website and contact information.
 
