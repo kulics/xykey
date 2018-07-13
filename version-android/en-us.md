@@ -1,3 +1,13 @@
+V4.0
+1. Rewrite with Kotlin.
+1. Upgrade the data version to v8, please pay attention to the backup.
+1. Remove the fingerprint library other than the Android standard.
+1. Add autofill.
+1. The export file carries the platform and date stamps.
+1. Add a single key export function for easy sharing.
+1. Optimize the search page.
+1. Add Portuguese.
+
 V3.5  
 1. Add File Backup Feature.
 
