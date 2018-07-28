@@ -1,3 +1,10 @@
+V3.0
+1. Use Xylang rewrite.
+2. Data version upgrade to V8, please note backup.
+3. Support Fluent design System.
+4. export files with platform and date tags.
+5. Add a single key export function to facilitate sharing. 6. Increase the Portuguese language.
+
 V2.4  
 1. Add File Backup Feature.
 
