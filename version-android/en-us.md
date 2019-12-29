@@ -1,3 +1,7 @@
+V4.1
+1. Adapt to day and night mode.
+2. Adapt biometrics.
+
 V4.0
 1. Rewrite with Kotlin.
 1. Upgrade the data version to v8, please pay attention to the backup.
